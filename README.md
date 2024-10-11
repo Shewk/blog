@@ -1,1 +1,1 @@
-# blog
+# mkdocs-blog-template
